@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ROUYA\\OneDrive - Polytechnic University of the Philippines\\Desktop\\Integ\\Project2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0ECDAA-A41E-436D-9BAA-18D4A6F3EAA6}|Project2\\ConverterProject.csproj|c:\\users\\rouya\\onedrive - polytechnic university of the philippines\\desktop\\converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ROUYA\\OneDrive - Polytechnic University of the Philippines\\Desktop\\Integ\\Project2\\ConveterProject\\Converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConveterProject\\Converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ROUYA\\OneDrive - Polytechnic University of the Philippines\\Desktop\\Integ\\Project2\\DataLogic\\ConverterProcess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataLogic\\ConverterProcess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ROUYA\\OneDrive - Polytechnic University of the Philippines\\Desktop\\Integ\\ConversionProcess\\ConversionProcess\\ConversionProcess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ROUYA\\OneDrive - Polytechnic University of the Philippines\\Desktop\\Integ\\ConversionProcess\\ConversionProcess\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ROUYA\\OneDrive - Polytechnic University of the Philippines\\Desktop\\Integ\\Project2\\ClassLibrary1\\ConverterProcess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClassLibrary1\\ConverterProcess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConverterProcess.cs",
+              "DocumentMoniker": "C:\\Users\\ROUYA\\OneDrive - Polytechnic University of the Philippines\\Desktop\\Integ\\Project2\\DataLogic\\ConverterProcess.cs",
+              "RelativeDocumentMoniker": "DataLogic\\ConverterProcess.cs",
+              "ToolTip": "C:\\Users\\ROUYA\\OneDrive - Polytechnic University of the Philippines\\Desktop\\Integ\\Project2\\DataLogic\\ConverterProcess.cs",
+              "RelativeToolTip": "DataLogic\\ConverterProcess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T02:03:44.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConversionProcess.csproj",
+              "DocumentMoniker": "C:\\Users\\ROUYA\\OneDrive - Polytechnic University of the Philippines\\Desktop\\Integ\\ConversionProcess\\ConversionProcess\\ConversionProcess.csproj",
+              "RelativeDocumentMoniker": "..\\ConversionProcess\\ConversionProcess\\ConversionProcess.csproj",
+              "ToolTip": "C:\\Users\\ROUYA\\OneDrive - Polytechnic University of the Philippines\\Desktop\\Integ\\ConversionProcess\\ConversionProcess\\ConversionProcess.csproj",
+              "RelativeToolTip": "..\\ConversionProcess\\ConversionProcess\\ConversionProcess.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-29T02:03:09.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ROUYA\\OneDrive - Polytechnic University of the Philippines\\Desktop\\Integ\\ConversionProcess\\ConversionProcess\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\ConversionProcess\\ConversionProcess\\Class1.cs",
+              "ToolTip": "C:\\Users\\ROUYA\\OneDrive - Polytechnic University of the Philippines\\Desktop\\Integ\\ConversionProcess\\ConversionProcess\\Class1.cs",
+              "RelativeToolTip": "..\\ConversionProcess\\ConversionProcess\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T02:02:13.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Converter.cs",
+              "DocumentMoniker": "C:\\Users\\ROUYA\\OneDrive - Polytechnic University of the Philippines\\Desktop\\Integ\\Project2\\ConveterProject\\Converter.cs",
+              "RelativeDocumentMoniker": "ConveterProject\\Converter.cs",
+              "ToolTip": "C:\\Users\\ROUYA\\OneDrive - Polytechnic University of the Philippines\\Desktop\\Integ\\Project2\\ConveterProject\\Converter.cs",
+              "RelativeToolTip": "ConveterProject\\Converter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T01:50:26.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Converter.cs",
+              "DocumentMoniker": "C:\\Users\\ROUYA\\OneDrive - Polytechnic University of the Philippines\\Desktop\\Converter.cs",
+              "RelativeDocumentMoniker": "..\\..\\Converter.cs",
+              "ToolTip": "C:\\Users\\ROUYA\\OneDrive - Polytechnic University of the Philippines\\Desktop\\Converter.cs",
+              "RelativeToolTip": "..\\..\\Converter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T20:33:40.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConverterProcess.cs",
+              "DocumentMoniker": "C:\\Users\\ROUYA\\OneDrive - Polytechnic University of the Philippines\\Desktop\\Integ\\Project2\\ClassLibrary1\\ConverterProcess.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\ConverterProcess.cs",
+              "ToolTip": "C:\\Users\\ROUYA\\OneDrive - Polytechnic University of the Philippines\\Desktop\\Integ\\Project2\\ClassLibrary1\\ConverterProcess.cs",
+              "RelativeToolTip": "ClassLibrary1\\ConverterProcess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T21:33:32.893Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
